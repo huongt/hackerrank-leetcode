@@ -9,6 +9,6 @@ public class DeckCards {
     private int initCount = 0;
 
     public boolean hasGroupsSizeX(int[] deck) {
-
+        return false;
     }
 }
